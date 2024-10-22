@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/imyitozo/static/css/main.a5e8840f.css",
+    "main.js": "/imyitozo/static/js/main.81d70833.js",
+    "static/media/React_logo1.png": "/imyitozo/static/media/React_logo1.7feb6621573e09d2a6d9.png",
+    "index.html": "/imyitozo/index.html",
+    "main.a5e8840f.css.map": "/imyitozo/static/css/main.a5e8840f.css.map",
+    "main.81d70833.js.map": "/imyitozo/static/js/main.81d70833.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5e8840f.css",
+    "static/js/main.81d70833.js"
+  ]
+}
