@@ -1,0 +1,150 @@
+{
+    "questions": [
+      {
+        "question": "Ikinyabiziga cyose cyangwa ibinyabiziga bigenda bigomba kugira:",
+        "options": ["Umuyobozi", "Umuherekeza", "A na B ni ibisubizo byukuri", "Nta gisubizo cyukuri kirimo"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Ijambo akayira bivuga inzira nyabagendwa ifunganye yagenewe gusa:",
+        "options": ["Abanyamaguru", "Ibinyabiziga bigendera ku biziga bibiri ", "A na B ni ibisubizo by’ukuri", "Nta gisubizo cy’ukuri kirimo"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "Umurongo uciyemo uduce umenyesha ahegereye umurongo ushobora kuzuzwa nuturanga gukata twibara ryera utwo turanga cyerekezo tumenyesha:",
+        "options": ["Igisate cy’umuhanda abayobozi bagomba gukurikira ", "Ahegereye umurongo ukomeje", "Igabanurwa ry’umubare w’ibisate by’umuhanda mu cyerekezo bajyamo", "A na C nibyo"],
+        "correctOption": 3,
+        "points": 10
+      },
+      {
+        "question": "Ahantu ho kugendera mu muhanda herekanwa n’ibimenyetso bimurika  ibinyabiziga ntibishobora kuhagenda:",
+        "options": ["Biteganye", "Ku murongo umwe", "A na B nibyo", "Nta gisubizo cy’ukuri kirimo"],
+        "correctOption": 4,
+        "points": 10
+      },
+      {
+        "question": "Ibinyabiziga bikurikira bigomba gukorerwa isuzumwa buri mwaka:",
+        "options": [
+          "Ibinyabiziga bigenewe gutwara abagenzi muri rusange",
+          "Ibinyabiziga bigenewe gutwara ibintu birengeje toni 3.5",
+          "Ibinyabiziga bigenewe kwigisha gutwara",
+          "Nta gisubizo cy’ukuri kirimo"
+        ],
+        "correctOption": 4,
+        "points": 10
+      },
+      {
+        "question": "Ubugari bwa romoruki ikuruwe n’ikinyamitende itatu ntibugomba kurenza ibipimo bikurikira:",
+        "options": ["cm75", "cm125 ", "cm265", "Nta gisubizo cy’ukuri"],
+        "correctOption": 4,
+        "points": 10
+      },
+      {
+        "question": "Ubugari bwa romoruki ikuruwe n’ikinyamitende itatu ntibugomba kurenza ibipimo bikurikira:",
+        "options": [
+          "cm75 ",
+          "cm125",
+          "cm265 ",
+          "Nta gisubizo cy’ukuri"
+        ],
+        "correctOption": 3,
+        "points": 30
+      },
+      {
+        "question": "Uburebure bw’ibinyabiziga bikurikira ntibugomba kurenga metero 11 :",
+        "options": [
+          "Ibifite umutambiko umwe uhuza imipira",
+          "Ibifite imitambiko ibiri ikurikiranye mu bugari bwayo",
+          "Makuzungu",
+          "Nta gisubizo cy’ukuri"
+        ],
+        "correctOption": 4,
+        "points": 20
+      },
+      {
+        "question": "Ikinyabiziga kibujijwe guhagarara akanya kanini aha hakurikira :",
+        "options": [
+          "Ahatarengeje metero 1 imbere cyangwa inyuma y’ikinyabiziga gihagaze akanya gato cyangwa kanini :",
+          "Ahantu hari ibimenyetso bibuza byabugenewe",
+          "Aho abanyamaguru banyura mu muhanda ngo bakikire inkomyi",
+          "Ibisubizo byose nibyo"
+        ],
+        "correctOption": 4,
+        "points": 20
+      },
+      {
+        "question": "Kunyuranaho bikorerwa:",
+        "options": [
+          "Mu ruhande rw’iburyo gusa",
+          "Igihe cyose ni ibumoso",
+          "Iburyo iyo unyura ku nyamaswa",
+          "Nta gisubizo cy’ukuri kirimo"
+        ],
+        "correctOption": 4,
+        "points": 30
+      },
+      {
+        "question": "Icyapa cyerekana umuvuduko ntarengwa ikinyabiziga kitagomba kurenza gishyirwa gusa ku binyabiziga bifite uburemere ntarengwa bukurikira:",
+        "options": [
+          "Burenga toni 1",
+          "Burenga toni 2",
+          "Burenga toni 24",
+          "Nta gisubizo cy’ukuri kirimo"
+        ],
+        "correctOption": 4,
+        "points": 30
+      },
+      {
+        "question": "Ahatari mu nsisiro umuvuduko ntarengwa mu isaha wa velomoteri ni: ",
+        "options": ["Km50", "Km40", "Km30", "Nta gisubizo cy’ukuri"],
+        "correctOption": 1,
+        "points": 10
+      },
+      {
+        "question": "Umuyobozi ugenda mu muhanda igihe ubugari bwawo budatuma anyuranaho nta nkomyi ashobora kunyura mu kayira k’abanyamaguru ariko amaze kureba ibi bikurikira:",
+        "options": [
+          "Umuvuduko w’abanyamaguru",
+          "Ubugari bw’umuhanda",
+          "Umubare w’abanyamaguru",
+          "Nta gisubizo cy’ukuri kirimo"
+        ],
+        "correctOption": 4,
+        "points": 30
+      },
+      {
+        "question": "Ku byerekeye kwerekana ibinyabiziga n’ukumurika kwabyo ndetse no kwerekana ihindura ry’ibyerekezo byabyo. Birabujijwe gukora andi matara cyangwa utugarurarumuri uretse ibitegetswe ariko ntibireba amatara akurikira: ",
+        "options": [
+          "Amatara ndanga ",
+          "Amatara ari imbere mu modoka ",
+          "Amatara ndangaburambarare ",
+          "Ibisubizo byose nibyo"
+        ],
+        "correctOption": 2,
+        "points": 30
+      },
+      {
+        "question": "Iyo nta mategeko awugabanya by’umwihariko umuvuduko ntarengwa w’amapikipiki mu isaha ni:",
+        "options": [
+          "Km25",
+          "Km70 ",
+          "Km40",
+          "Nta gisubizo cy’ukuri kirimo"
+        ],
+        "correctOption": 4,
+        "points": 20
+      },
+         {
+        "question": "Iyo nta mategeko awugabanya by’umwihariko umuvuduko ntarengwa w’amapikipiki mu isaha ni:",
+        "options": [
+          "Km25",
+          "Km70 ",
+          "Km40",
+          "Nta gisubizo cy’ukuri kirimo"
+        ],
+        "correctOption": 4,
+        "points": 20
+      }
+    ]
+  }
